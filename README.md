@@ -2,7 +2,6 @@
 
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <!-- Add other languages if you create them -->
 </table>
 
