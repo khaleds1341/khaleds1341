@@ -1,6 +1,6 @@
 ## Interested in Big Data Analysis
 
-![Image](https://github.com/user-attachments/assets/493325f3-441e-4da6-8bdb-2553301365b5)
+![Image](https://github.com/user-attachments/assets/476d8288-b1d3-4805-845f-b12b40e69fe4)
 <table align="right">
  <!-- Add other languages if you create them -->
 </table>
