@@ -7,6 +7,9 @@
 
 ### 👨‍💻 About Me
 
+- 🔦 Driven by the excitment toward a new knowledge.  
+- 🤿 Scuba Diver.
+- ✍️ Debut Author.  
 - 🧠 Learning Python and software development one project at a time.  
 - 🚀 Exploring the world of open-source and version control on GitHub.  
 - 💡 Passionate about automation, scripting, and building useful tools.  
