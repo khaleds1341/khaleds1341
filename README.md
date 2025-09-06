@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=red" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <!-- Add more social links as you grow -->
 </p>
 
