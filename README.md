@@ -58,18 +58,5 @@
 
 ---
 
-<p align="center">
- <a href="https://ko-fi.com/YOUR-KOFI-ID">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com">
- </a>
-</p>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=khaleds1341&style=plastic&label=Views">
-</p>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
-</p>
 
