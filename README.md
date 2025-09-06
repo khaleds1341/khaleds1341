@@ -1,6 +1,6 @@
 ## Interested in Big Data Analysis
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![Image](https://github.com/user-attachments/assets/5c2004b6-c39f-4351-88a5-c5fe7e0e8ffc)
 
 <table align="right">
  <!-- Add other languages if you create them -->
